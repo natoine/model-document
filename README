@@ -1,0 +1,8 @@
+This project was created during my phd.
+I used it in the development of my application for the ANR Intermed Project : 
+http://intermed.csregistry.org/tiki-index.php
+http://intermed.lirmm.fr/
+
+I wanted to create a model for Document representation. 
+Something generic enough to use it in many of my personal projects.
+I use JPA for peristency.
